@@ -222,3 +222,4 @@ module-6/deployment/docker-compose.yml
 
 #config files
 config.properties
+extensions.json
